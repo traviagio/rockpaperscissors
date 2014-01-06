@@ -1,7 +1,6 @@
 Rock paper scissors solution using Ruby and Javascript
 
 
-Rock-Paper-Scissors
 Makers Academy Week 7 Task
 
 Aim
