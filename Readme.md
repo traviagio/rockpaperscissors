@@ -1,10 +1,10 @@
 
 
-Rock paper scissors solution using Ruby and Javascript
+Rock paper scissors
 =============
 
 
-Makers Academy Week 7 Task
+Makers Academy Week 7
 -------------
 
 
