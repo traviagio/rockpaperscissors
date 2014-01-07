@@ -7,9 +7,6 @@ Rock paper scissors solution using Ruby and Javascript
 Makers Academy Week 7 Task
 -------------
 
-Aim
-
-Java Script introduction project
 
 Teacher: Alex Peattie, [@alexpeattie]: https://github.com/alexpeattie
 
